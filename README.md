@@ -1,5 +1,9 @@
 # Bonera
 
+**NOTE:** This fork will contain all changes I wanted to add. Since the original got archived by @BlenderBoi, I'll be maintaining my own fork and keep adding changes.
+
+This means that some of the links in this repo might be wrong (particularly documentation URLs and such).
+
 ![Banner](https://user-images.githubusercontent.com/79613445/210190149-550c8269-55b4-4ecc-9057-e864ae49279e.png)
 
 Bonera is an addon that provide a Set of Tool to Help to speed up the tedious part that is in the Manual Rigging Process.
